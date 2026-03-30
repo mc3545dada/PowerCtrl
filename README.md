@@ -2,6 +2,7 @@
 ### 本项目在mc3545dada个人仓库停止更新，仅作为记录
 ### 后续版本更新于TGMRM304仓库中
 ### https://github.com/TGURM304
+### https://github.com/TGURM304/PowerManager
 
 ## 内容
 - 基于模型的功率预测
